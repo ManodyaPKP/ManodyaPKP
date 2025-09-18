@@ -248,7 +248,6 @@
   <br><br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="Ctrl C Ctrl V" />
 </div>
 
 <div align="center">
