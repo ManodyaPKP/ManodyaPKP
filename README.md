@@ -5,7 +5,7 @@
 </div> <br/> 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" 
+  <img src="https://komarev.com/ghpvc/?username=manodyapkp&label=Profile%20views&color=00D9FF&style=for-the-badge&logo=eye" 
     alt="Profile views" />
 </div>
 
