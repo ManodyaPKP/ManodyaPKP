@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Punara Manodya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Frontend+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Passionate+about+Modern+Web+Technologies+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8;Currently+Mastering+React+%26+Beyond+%F0%9F%92%AB;Full+Stack+Developer+%7C+UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Passionate+about+Modern+Web+Technologies+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8;Currently+Mastering+React+%26+Beyond+%F0%9F%92%AB;Full+Stack+Developer+%7C+UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
 </div> <br/> 
 
 <div align="center">
@@ -22,7 +22,7 @@
 <div align="left">
   <img align="right" alt="Coding Animation" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   
-  🎯 **Currently Working:** Internship at Board of Investment, Sri Lanka
+  🎯 **Currently Working:**  at the Department of Government Information, Sri Lanka.
   
   🎓 **Education:** Undergraduate at NSBM Green University & Plymouth University, UK
   
