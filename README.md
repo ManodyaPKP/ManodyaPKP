@@ -1,4 +1,4 @@
-# Hi there! <img src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" width="30px"/> I'm Punara Manodya
+# Hi there! <img src="assets/gif1.gif" width="30px"/> I'm Punara Manodya
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Passionate+about+Modern+Web+Technologies+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8;Currently+Mastering+React+%26+Beyond+%F0%9F%92%AB;Full+Stack+Developer+%7C+UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
@@ -10,13 +10,13 @@
 </div>
 
 <div align="center">
-  <img width="800" src="https://i.pinimg.com/originals/6e/e6/ef/6ee6efdcab9d15b5943a6929d2cceacf.gif">
+  <img width="800" src="assets/gif2.gif">
 </div>
 
 ## 🚀 About Me
 
 <div align="left">
-  <img align="right" alt="Coding Animation" width="420" src="https://i.pinimg.com/originals/05/ec/48/05ec4876e7d36fe31716557ddc2bd7ee.gif">
+  <img align="right" alt="Coding Animation" width="420" src="assets/gif3.gif">
 
   🎯 **Currently Working:** at the Department of Government Information, Sri Lanka.
 
@@ -38,7 +38,7 @@
 <br clear="both"/>
 
 <div align="center">
-  <img width="800" src="https://i.pinimg.com/originals/13/91/07/139107b3e3c7fcecd44f262243c9bbcd.gif">
+  <img width="800" src="assets/gif4.gif">
 </div>
 
 ## 🛠️ Tech Stack & Skills
@@ -116,7 +116,7 @@
 ---
 
 <div align="center">
-  <img width="800" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif">
+  <img width="800" src="assets/gif1.gif">
 </div>
 
 ## 📊 GitHub Analytics & Performance
@@ -179,7 +179,7 @@
 </div>
 
 <div align="center">
-  <img width="800" src="https://i.pinimg.com/originals/6e/e6/ef/6ee6efdcab9d15b5943a6929d2cceacf.gif">
+  <img width="800" src="assets/gif2.gif">
 </div>
 
 ## 🌟 Animated Showcase
@@ -188,15 +188,15 @@
   <table>
     <tr>
       <td align="center">
-        <img width="280" src="https://i.pinimg.com/originals/05/ec/48/05ec4876e7d36fe31716557ddc2bd7ee.gif" alt="Coding Animation 1"/>
+        <img width="280" src="assets/gif3.gif" alt="Coding Animation 1"/>
         <br><b>🚀 Frontend Magic</b>
       </td>
       <td align="center">
-        <img width="280" src="https://i.pinimg.com/originals/13/91/07/139107b3e3c7fcecd44f262243c9bbcd.gif" alt="Coding Animation 2"/>
+        <img width="280" src="assets/gif4.gif" alt="Coding Animation 2"/>
         <br><b>⚡ Backend Power</b>
       </td>
       <td align="center">
-        <img width="280" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" alt="Coding Animation 3"/>
+        <img width="280" src="assets/gif1.gif" alt="Coding Animation 3"/>
         <br><b>🎨 Design Fusion</b>
       </td>
     </tr>
@@ -245,5 +245,5 @@
 </div>
 
 <div align="center">
-  <img width="800" src="https://i.pinimg.com/originals/13/91/07/139107b3e3c7fcecd44f262243c9bbcd.gif"/>
+  <img width="800" src="assets/gif4.gif"/>
 </div>
